@@ -16,5 +16,5 @@ class User extends Model {
     );
   }
 }
-
+// teste
 export default User;
